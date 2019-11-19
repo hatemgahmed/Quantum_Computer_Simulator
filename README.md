@@ -1,2 +1,2 @@
 # QC
-A sim for QC
+A simulator for Quantum Computer
